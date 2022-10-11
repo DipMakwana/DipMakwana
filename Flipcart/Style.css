@@ -1,0 +1,188 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    overflow-x: hidden;
+}
+
+.Header {
+    background-color: #2874f0;
+    padding: 8px 0px 0px 0px;
+    color: white;
+    
+}
+
+.login_btn {
+    color: #2874f0;
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    border: 0px;
+    font-weight: bold;
+}
+
+.Menu {
+    margin: 10px;
+    text-align: center;
+}
+
+.Menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.Menu a:hover {
+    color: #2874f0;
+}
+
+.mainbar {
+    background-color: #f1f3f6;
+}
+
+.Product_head {
+    background-color: white;
+    width: 1000px;
+    height: 90px;
+    margin: 0px 22px;
+    /* border: 1px black solid; */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.products {
+    margin: 3px 10px;
+    width: 800px;
+    display: inline-flex;
+    clear: both;
+}
+
+.side {
+    display: inline-flex;
+}
+
+.Pro {
+    text-align: center;
+    margin-right: 12px;
+    height: 300px;
+    width: 190px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.main {
+    margin: 3px 10px;
+}
+
+.list {
+    text-align: center;
+    margin-right: 12px;
+    height: 300px;
+    width: 190px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.detail {
+    margin: 15px;
+}
+
+.detail a {
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
+
+.info {
+    color: #878787;
+    font-size: 11px;
+}
+
+.info h1{
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #172337;
+    padding: 40px 65px;
+    font-size: 11px;
+    font-weight: 400;
+    display: inline-flex;
+}
+
+.footer p {
+    color: #878787;
+}
+
+.about {
+    list-style-type: none;
+}
+
+.about a {
+    text-decoration: none;
+    color: #f1f3f6;
+}
+
+.help {
+    list-style-type: none;
+}
+
+.help a {
+    text-decoration: none;
+    color: #f1f3f6;
+}
+
+.policy {
+    list-style-type: none;
+}
+
+.policy a {
+    text-decoration: none;
+    color: #f1f3f6;
+}
+
+.social {
+    list-style-type: none;
+}
+
+.social a {
+    text-decoration: none;
+    color: #f1f3f6;
+}
+
+.address{
+    border-left: 1px solid #878787 ;
+    padding-left: 25px;
+}
+.address span{
+    color: #f1f3f6;
+    font-size: 11px;
+}
+.address2{
+    padding-left: 25px;
+    clear: both;
+}
+.address2 span{
+    color: #f1f3f6;
+    font-size: 11px;
+}
+
+.footer_row{
+    color: #f1f3f6;
+    background-color: #172337;
+    border-top:1px solid #878787;
+    height: 60px;
+    padding: 15px 90px;
+    font-size: 12px;
+    align-items: center;
+}
+
+.footer_row a{
+    text-decoration: none;
+    color: #f1f3f6;
+    padding: 0px 50px 20px 4px; 
+}
